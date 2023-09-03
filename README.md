@@ -10,4 +10,4 @@ The patch network consists of $R=114$ patches, each surveyed between $J=2$
  within-year sampling occasions). 
  
  Our objective was to use the water vole data to empirically test ‘area-isolation’ predictions. To test the ‘area’ prediction we modelled the extinction probability using a Logit Linear model with patch length as a covariate, and to test the ‘isolation’ prediction, we modelled the colonisation probability using a Logit Linear model with connectivity as a covariate. From the description of the metapopulation system, we developed a State-Space formulation of the Dynamic Occupancy model,
- fitted the model to the data using JAGS language while assessing convergence and fit, and conducted Posterior Predictive Checking by including a Discrepancy Metric.
+ fitted the model to the data using BUGS language while assessing convergence and fit, and conducted Posterior Predictive Checking by including a Discrepancy Metric.
