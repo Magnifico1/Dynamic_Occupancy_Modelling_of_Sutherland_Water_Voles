@@ -1,8 +1,6 @@
 # Dynamic Occupancy Modelling of Sutherland Water Voles
 
-The data we used here is a subset of that described in Sutherland _et al._ (2014), a study of a population of water voles (*Arvicola amphibius*), a riparian specialist species, in northwest Scotland. Water vole colonies occupy discrete patches of lush riparian habitat embedded within a matrix of unsuitable habitat and exhibit high levels of patch turnover - i.e., they represent a rare example of a classically functioning metapopulation.
-
-The patch network consists of $R=114$ patches, each surveyed between $J=2$
+Water vole colonies occupy discrete patches of lush riparian habitat embedded within a matrix of unsuitable habitat and exhibit high levels of patch turnover - i.e., they represent a rare example of a classically functioning metapopulation. The data we used here is a subset of that described in Sutherland _et al._ (2014), a study of a population of water voles (*Arvicola amphibius*), a riparian specialist species, in northwest Scotland. The patch network consists of $R=114$ patches, each surveyed between $J=2$
  and $J=4$
  times between July and August (breeding season), from 2009 to 2012 ($T=4$
 ). Water voles use latrines as territory marking so the detection-nondetection data are the number of visits in which at least one latrine was detected at a site - the data ($y$
